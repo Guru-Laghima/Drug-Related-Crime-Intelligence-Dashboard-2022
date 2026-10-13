@@ -41,7 +41,7 @@ Contains incident-level data including crime type, drug type, location, age grou
 - Added multiple filters (Crime Type, Drug Type, Location, Age Group, Treatment, Arrest Record, Overdose, Gender) for flexible exploration.
 
 ## Dashboard Preview
-
+<img width="1419" height="881" alt="image" src="https://github.com/user-attachments/assets/246cfa39-3e8d-4362-8dd3-0f1883243ab7" />
 
 ## Recommendations and Insights
 1. **Crime Type Concentration**  
