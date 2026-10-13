@@ -40,6 +40,9 @@ Contains incident-level data including crime type, drug type, location, age grou
 - Created visualizations for Crime Type Distribution, Drug Type Distribution, Incidents Over Time, Location Analysis, Age Distribution, Gender vs Drug Type, Arrest & Conviction Rates, Overdose & Hospital Impact, and Police Activity.
 - Added multiple filters (Crime Type, Drug Type, Location, Age Group, Treatment, Arrest Record, Overdose, Gender) for flexible exploration.
 
+## Dashboard Preview
+
+
 ## Recommendations and Insights
 1. **Crime Type Concentration**  
    Theft (3K) and Burglary (2.9K) are the most frequent crime types.  
